@@ -1,2 +1,5 @@
-# ResearchReportSeminar
-Report on the topic Secure Scuttlebutt University Seminar(MIT)
+# Research Report for Seminar MIT 2021 Computer Science Engineering
+The topic I chose for my report was Secure Scuttlebutt, which is a novel peer-to-peer social networking application and protocol stack which uses fix append only logs as a unit for feeds that a user creates or reviews feeds made by other users. It is a step towards decentralized networking application, and creates a social graph for the same.
+It is a push based network model where the updates are pushed to all the nodes in the channel which act as the user's personal device as well as a cluser in the network enabling the propogation of messages such as a request to connect or new feeds.
+Like blockchain technology, these read only append logs are systematically added based on the timestamp of the received message and these logs are placed and displayed on the user screen in a chronological order.
+The above report briefly explains the working of Secure Scuttlebutt and presents some of the threats that come with a centralized social networking platform/application. The slides accompanying the report also explains it briefly
